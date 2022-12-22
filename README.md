@@ -6,12 +6,12 @@ This page can be used for dynamic blocking list from Insign-IT
 
 Security Rule name:
 ```
-EDL - InsignIT-Blocklist-Outbound
-EDL - InsignIT-Blocklist-Inbound
+Block Inbound InsignIT Lists
+Block Outbound InsignIT Lists
 ```
 
 External Dynamic Lists:
 ```
-InsignIT-Blocklist-Outbound - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/outbound-block.txt
-InsignIT-Blocklist-Inbound - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/inbound-block.txt
+EDL - InsignIT-Blocklist-Outbound - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/outbound-block.txt
+EDL - InsignIT-Blocklist-Inbound - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/inbound-block.txt
 ```

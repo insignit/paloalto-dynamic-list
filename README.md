@@ -6,8 +6,8 @@ This page can be used for dynamic blocking list from Insign-IT
 
 Security Rule name:
 ```
-Block Inbound InsignIT Lists
-Block Outbound InsignIT Lists
+insignit-edl-ip-block
+insignit-edl-domain-block
 ```
 
 External Dynamic Lists:

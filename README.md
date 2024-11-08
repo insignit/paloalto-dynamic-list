@@ -12,8 +12,8 @@ insignit-edl-domain-block
 
 External Dynamic Lists:
 ```
-EDL - InsignIT-Blocklist-Outbound - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/outbound-block.txt
-EDL - InsignIT-Blocklist-Inbound - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/inbound-block.txt
+Insignit-IP-Block - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/outbound-block.txt
+Insignit-Domain-Block - https://raw.githubusercontent.com/insignit/paloalto-dynamic-list/main/inbound-block.txt
 ```
 
 ## How to Add this to Palo?

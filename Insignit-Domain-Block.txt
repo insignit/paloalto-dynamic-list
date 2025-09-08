@@ -122,7 +122,7 @@ ua-mil.cloud #RDP Spear Phishing
 ua-sec.cloud #RDP Spear Phishing
 ua-se.cloud #RDP Spear Phishing
 ua-sn.cloud #RDP Spear Phishing
-allpdflive.com #ManualFinder Malware-campagne
+allpdflive.com/ #ManualFinder Malware-campagne
 apdft.com #ManualFinder Malware-campagne
 appsuites.ai #ManualFinder Malware-campagne
 businesspdf.com #ManualFinder Malware-campagne
@@ -165,5 +165,5 @@ quickpdfmanuals.com #ManualFinder Malware-campagne
 smarteasypdf.com #ManualFinder Malware-campagne
 smartmanualspdf.com #ManualFinder Malware-campagne
 smartonestartpdf.com #ManualFinder Malware-campagne
-smartviewpdf.com
-thepdfbox.com
+smartviewpdf.com/
+thepdfbox.com/

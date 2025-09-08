@@ -1,0 +1,11 @@
+windowsupdate.microsoft.com
+download.windowsupdate.com
+wustat.windows.com
+*.windowsupdate.com
+*.download.windowsupdate.com
+*.update.microsoft.com
+*.microsoft.com
+*.delivery.microsoft.com
+*.edgesuite.net
+*.akamaiedge.net
+*.trafficmanager.net

@@ -165,5 +165,5 @@ quickpdfmanuals.com #ManualFinder Malware-campagne
 smarteasypdf.com #ManualFinder Malware-campagne
 smartmanualspdf.com #ManualFinder Malware-campagne
 smartonestartpdf.com #ManualFinder Malware-campagne
-smartviewpdf.com #ManualFinder Malware-campagne
-thepdfbox.com #ManualFinder Malware-campagne
+smartviewpdf.com
+thepdfbox.com

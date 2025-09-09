@@ -1,5 +1,4 @@
-smartviewpdf.com/
-thepdfbox.com/
+# URL Block
 ca-central-1.awsplatform.online #RDP Spear Phishing 
 ca-west-1.mfa-gov.cloud #RDP Spear Phishing
 central-2-aws.ua-aws.army #RDP Spear Phishing
@@ -166,3 +165,5 @@ quickpdfmanuals.com #ManualFinder Malware-campagne
 smarteasypdf.com #ManualFinder Malware-campagne
 smartmanualspdf.com #ManualFinder Malware-campagne
 smartonestartpdf.com #ManualFinder Malware-campagne
+smartviewpdf.com #ManualFinder Malware-campagne
+thepdfbox.com #ManualFinder Malware-campagne

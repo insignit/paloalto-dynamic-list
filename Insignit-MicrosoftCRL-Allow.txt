@@ -1,0 +1,17 @@
+# Certificate downloads and revocation lists
+# The following domains (HTTP/Port 80) may need to be included in your firewall allowlists to optimize connectivity
+# AIA
+cacerts.digicert.com
+cacerts.digicert.cn
+cacerts.geotrust.com
+caissuers.microsoft.com
+# www.microsoft.com
+# CRL
+crl3.digicert.com
+crl4.digicert.com
+crl.digicert.cn
+# www.microsoft.com
+# OCSP
+ocsp.digicert.com
+ocsp.digicert.cn
+oneocsp.microsoft.com

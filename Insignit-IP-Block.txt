@@ -111,3 +111,4 @@
 142.93.205.229 #93323 Citrix NetScaler CVE
 79.133.42.141 #93323 Citrix NetScaler CVE
 213.209.159.55  #93323 Citrix NetScaler CVE pitscaler2 
+185.244.213.112 #93323 pitscaler2 
